@@ -1,2 +1,2 @@
 # Nvidia Driver
-sudo apt install -y nvidia-driver-570
+# sudo apt install -y nvidia-driver-570
