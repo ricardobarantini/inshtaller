@@ -1,0 +1,1 @@
+for f in ~/.local/share/inshtaller/install/*.sh; do source "$f"; done

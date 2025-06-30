@@ -1,2 +1,2 @@
-apt update
-apt install -y flatpak git stow unzip wget zsh
+sudo apt update
+sudo apt install -y flatpak stow unzip wget zsh
